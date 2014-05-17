@@ -350,6 +350,7 @@ https://github.com/doubleduck/TweenChain
 ### Multiplayer 
 [socket.io-openfl-client ([Dmitriy Kapustin](gemioli.com))](https://github.com/dimanux/socket.io-openfl-client): Socket.io OpenFL client extension. Tested with HaXe 3.x, OpenFL 1.3.0, nodejs 0.10.26 (or dotcloud) on platforms: Flash 11, HTML5, Windows, Android, iOS, Blackberry (not tested).
 
+[HaxeNet ([ohmnivore](ohmnivore.elementfx.com/))](https://github.com/Ohmnivore/HaxeNet): Haxe bindings for ENet, a UDP implementation written in C. With these wrappers, you should be able to release online multiplayer games for Haxe's C++ target.
 
 ### XMPP
 ### JSON-RPC 
@@ -548,12 +549,6 @@ https://github.com/imcj/haxecs:
 and more (maybe multiplayer in the future).
 
 [HaxeFlixel Godot Parser([Pekka Heikkinen](https://github.com/volvis))](https://github.com/volvis/HaxeFlixel-Godot_Parser): Experimental tools for reading Godot scenes into HaxeFlixel.HaxeFlixel lacks a common IDE for managing objects. Godot, while a fully functional game engine, is at the time of writing still in its infancy. However the IDE offers plenty of attractive tools for content authoring. The idea here is to read in Godot scene files, which can be saved as plain text XML, and recreate the Node2D items in HaxeFlixel.
-
-[FlxShell ([ohmnivore](ohmnivore.elementfx.com/))](https://github.com/Ohmnivore/FlxShell): Work in progress. The plan is to simulate a Linux environment using Haxe. I plan to use it for a HaxeFlixel game where hacking will be part of the gameplay. What really gives it power is an interpreted version of Haxe, hscript. https://code.google.com/p/hscript/ This is meant to be an abstraction, a simulation even of a Linux environment as it will be used in a game, with oftentimes a couple of systems open. Thus many things will not be perfectly emulated, but their spirit will subsist. For instance, there will only be one networking protocol since real-world constraints such as delay, packet loss, etc. won't apply in the game world. Further abstractions include the file system, and, well you get the idea.
-
-Done: JSONed file system (directories + files), Shell, Shell history, Moved to, package flxsys, Shell tab completion.
-
-TODO: Command line args parsing (docopt style), Add shell redirection/pipes (<, >, |), Simulated network protocol, Threading/processes, Implement useful linux commands using interpreted Haxe:ls, cd, man, cp, mv, mkdir, rmdir, touch, pwd ,locate, ipconfig equivalent, chmod, grep, find, ssh equivalent, simple text editor (mostly for copy paste),diff, shutdown ,ftp equivalent ,ps ,top ,kill ,rm ,cat ,chown ,passwd ,uname equivalent ,whereis ,whatis ,tail ,less ,su  ,wget equivalent
 
 
 ### Classes
