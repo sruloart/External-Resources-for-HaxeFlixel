@@ -1,4 +1,4 @@
-#### This is a WIP list that I've made a few weeks ago for HaxeFlixel and didn't have time to complete. Maybe someone can use it as it is. Updates may follow.
+#### This is a WIP list that I've made a few weeks ago for HaxeFlixel and didn't have time to complete. Maybe someone can use it as it is. Updates may follow. ```Entry's Name ([Author](Author's link))](Entry's link):``` is the markdown template I use for entries, this is why you have this guy (): all over the document.
 
 
 ```
@@ -20,20 +20,17 @@ Some of these resources are already written in Haxe, so frequently it's just a m
 
 
 ### JAVA
-Java is one of the major languages in the programming-world, but our main focus here is mostly Android related API; Do you want to interact with the camera of your Android device? Do you want to setup your game with Google-Play? better have some Java knowledge pre-prepared.     
 
 ### AS3 (Action-Script)
-The main language for Flash development. HaxeFlixel started out as a port of two major AS3 libraries (Flixel and Flixel Power Tools), and as part of this history, as well as Haxe-AS3 similarities, many AS3 libraries today are a good source for many different . :
+
 #### Convert AS3 to Haxe
 
 #### Use Haxe with AS3 
 
 
 ### C++
-The all-foremother of most code you know.  
 
 ## Native Targets 
-Devices can have their own way of doing stuff, this is the "Native" stuff you keep hearing about.  
 
 ### Android
 [Barcode ([Barak Shohat](http://www.bazzisoft.com/index.php))](https://github.com/bazzisoft-openfl-extensions/barcode):This extension provides real-time barcode scanning functionality for iOS and Android, directly from the device's camera. In Android, it uses the Google/ZXing Barcode Scanner app as a service. This app must be installed separately for barcode scanning to work. The extension provides an indication if it's not installed when attempting to scan.
@@ -519,7 +516,7 @@ https://github.com/imcj/haxecs:
 
 [ ([]())]():
 
-# The Great Halls of Extension Members:
+# The Great Halls of Extension Members (WIP!):
 - [Johann Martinache ```with``` [HyperFiction](https://github.com/hyperfiction)](https://github.com/shoebox)
 - [Sergey Miryanov](https://github.com/sergey-miryanov)
 - [Emiliano Angelini](https://github.com/emibap)
