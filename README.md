@@ -281,8 +281,8 @@ https://github.com/doubleduck/TweenChain
 ## Coding 
 ## Compiling 
 ## Controls
-[Gamepad Haxe ([Adam Harte](http://www.adamharte.com/))](https://github.com/AdamHarte/Gamepad-Haxe):
-[ ([]())]():
+[Gamepad Haxe ([Adam Harte](http://www.adamharte.com/))](https://github.com/AdamHarte/Gamepad-Haxe): Simulate an analog joystick input using the keyboard.
+
 ## Debug
 
 [Game Console ([TiagoLr](https://github.com/ProG4mr))](https://github.com/ProG4mr/gameconsole)
@@ -427,11 +427,9 @@ There is a growing number of free games sources written with HaxeFlixel/OpenFL/H
 
 ## Androgynous Humanoid Murder Mansion (HaxeFlixel)
 [ ([a merry bunch of people]())](https://github.com/seleb/GameJam2014-AndrogynousHumanoidMurderMansion):
+
 ## Barricade
-[ ([]())](https://github.com/AdamHarte/Barricade):
-
-
-
+[Barricade ([Adam Harte](http://www.adamharte.com/))](https://github.com/AdamHarte/Barricade): Robots are attacking, and they are after the mainframe. Luckly there is a glitch in their programming that means they need to reboot every 10 seconds. Use this to your advantage and keep them out at all costs.
 
 ## Conquering Curiosity (HaxeFlixel)
 [Concquering Curiousity ([Tim I Hely with a bunch of people](http://www.tims-world.com/))](https://github.com/SeiferTim/ConqueringCuriosity): You are Dr Henry Jekyll - and someone has broken into your laboratory and stolen your secret serum! Now the whole town is in chaos as violent animals, doused in the dangerous potion, are out to get you. You must switch to and from your alter-ego, the dangerous, ill-hearted Mr Hyde to find clues and apprehend the villain!
