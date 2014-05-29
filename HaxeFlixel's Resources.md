@@ -1,4 +1,7 @@
-#### This is a WIP list that I've made a few weeks ago for HaxeFlixel and didn't have time to complete. Maybe someone can use it as it is. Updates may follow. ```Entry's Name ([Author](Author's link))](Entry's link):``` is the markdown template I use for entries, this is why you have this guy (): all over the document.
+#### This is a WIP list that I've made a few weeks ago for HaxeFlixel and didn't have time to complete. Maybe someone can use it as it is. 
+- Updates may follow. 
+- ```Entry's Name ([Author](Author's link))](Entry's link):``` is the markdown template I use for entries, this is why you have this guy (): all over the document. 
+- This document is built for easy browsing, so expect entries to repeat themselves when it's needed. 
 
 
 ```
@@ -33,14 +36,18 @@ Some of these resources are already written in Haxe, so frequently it's just a m
 ## Native Targets 
 
 ### Android
-[Barcode ([Barak Shohat](http://www.bazzisoft.com/index.php))](https://github.com/bazzisoft-openfl-extensions/barcode):This extension provides real-time barcode scanning functionality for iOS and Android, directly from the device's camera. In Android, it uses the Google/ZXing Barcode Scanner app as a service. This app must be installed separately for barcode scanning to work. The extension provides an indication if it's not installed when attempting to scan.
-
+#### Hardware
 [CameraMic ([Josu Igoa](https://github.com/josuigoa))](https://github.com/josuigoa/CameraMic):
 
 [Device ID (hopewise)](https://github.com/hopewise/HardDiskSerialNumberExtension):
 
+#### Software
+https://github.com/rockswang/roxlib
 
-[ ([]())](https://github.com/ipsilondev/getimagext):
+[Barcode ([Barak Shohat](http://www.bazzisoft.com/index.php))](https://github.com/bazzisoft-openfl-extensions/barcode):This extension provides real-time barcode scanning functionality for iOS and Android, directly from the device's camera. In Android, it uses the Google/ZXing Barcode Scanner app as a service. This app must be installed separately for barcode scanning to work. The extension provides an indication if it's not installed when attempting to scan.
+
+
+[Get Image Text ([]())](https://github.com/ipsilondev/getimagext):
 
 [HypSystem([Johann Martinache ```at``` [HyperFiction](https://github.com/hyperfiction)](https://github.com/shoebox))](https://github.com/hyperfiction/HypSystem): 
 
@@ -96,15 +103,12 @@ https://github.com/AlexHaxe/hxL8: is a command line application to talk to the L
 
 
 ## Platform API
-There are many different services 
-
-
 ### App Store
 [Hxgk-Flixel ([Anthony Prestia](http://anthonyprestia.com/))](https://github.com/prestia/hxgk-flixel): A modified hxgk that adds Game Center support to HaxeFlixel projects. The options for integrating Game Center into HaxeFlixel projects are not great. The original HxGK project seems to have largely disappeared from the Internet and NMEX, while full of great features, is an absolute pain to get running in its current state. This project should, hopefully, make basic Game Center integration (leaderboards and achievements) much simpler.
 
-[ ([]())](https://github.com/openfl/gamecenter):
+[Game Center ([]())](https://github.com/openfl/gamecenter):
 
-[ ([]())](https://github.com/openfl/iap): Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
+[IAP ([]())](https://github.com/openfl/iap): Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
 
 
 ### Facebook
@@ -120,7 +124,7 @@ There are many different services
 [ ([]())]:
 
 ### Google Play
-[ ([]())]:https://github.com/openfl/iap: Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
+[IAP ([]())]:https://github.com/openfl/iap: Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
 
 ### Kaltura
 Kaltura’s open source platform includes hundreds of REST-based application programming interfaces (APIs) providing programmable access to every core service of the platform. With full access to our API*, you can independently extend every feature and functionality of the Kaltura Platform. This means you’ll be able to seamlessly integrate Kaltura’s various solutions, services, and widgets to create a unified experience within your chosen environments - be it a known CMS, or custom in-house application.
@@ -130,7 +134,7 @@ Kaltura’s open source platform includes hundreds of REST-based application pro
 Ouya is a 99$ game-console that is based on custom Android OS, Tegra 3, and a native controller (with support to other mainstream controllers). The console have a relatively small game market,     
 
 	
-[ ([Jushoa Granick '''at''' OpenFL](https://github.com/jgranick))](https://github.com/openfl/openfl-ouya):
+[Openfl-OUYA ([Jushoa Granick '''at''' OpenFL](https://github.com/jgranick))](https://github.com/openfl/openfl-ouya):
 
 ### Steam Store
 Steam, the giant game store that is beloved anywhere but the lairs of pure evil, so it seems. Every game maker wants to be greenlighted into steam, and many would sell their grandmothers' cats to be featured on it for a day. Still, even when you are lucky enough to get in, you still need to integrate Steam's unique C++ based API into your game.   
@@ -140,7 +144,6 @@ Steam, the giant game store that is beloved anywhere but the lairs of pure evil,
 #### PC and Flash
 
 #### Android
-Sadly there isn't a 
 
 #### iOS
 [Twixel ([Anthony Prestia](http://anthonyprestia.com/))](https://github.com/prestia/twixel) (HaxeFlixel):An openfl extension that adds the ability to use Tweet Sheets from within iOS applications. Includes a sample HaxeFlixel project. This extension currently supports multiple accounts, basic tweets, and fancy iOS-style URL appends. I will likely add image support in the future. This extension also uses the newer iOS Social framework and can potentially support Facebook in the future. Most of the existing Haxe extensions use the deprecated Twitter framework. 
@@ -198,7 +201,7 @@ FGL (Flash-Game-License) is the front runner of Flash (and recently, Android, Un
 [GA ([fbricker](https://github.com/fbricker))](https://github.com/fbricker/haxe-ga)
 
 #### PC and Flash
-[Rocket Haxe Goggle Analytics([Rocketship Games]())](http://code.google.com/p/rockethaxe/source/browse/#git%2Fcom%2Frocketshipgames%2Fhaxe%2Fanalytics): An Haxe library and only a small but very important part of a nice open-source project. 
+[Rocket Haxe Goggle Analytics([Rocketship Games]())](http://code.google.com/p/rockethaxe/source/browse/#git%2Fcom%2Frocketshipgames%2Fhaxe%2Fanalytics): an Haxe library and only a small but very important part of a nice open-source project. 
 
 #### Mobile (Android + iOS)
 [GAnalytics ([Emiliano Angelini](https://github.com/emibap))](https://github.com/emibap/GAnalytics): 
