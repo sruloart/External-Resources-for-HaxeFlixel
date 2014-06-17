@@ -103,28 +103,28 @@ https://github.com/AlexHaxe/hxL8: is a command line application to talk to the L
 
 
 ## Platform API
-### App Store
-[Hxgk-Flixel ([Anthony Prestia](http://anthonyprestia.com/))](https://github.com/prestia/hxgk-flixel): A modified hxgk that adds Game Center support to HaxeFlixel projects. The options for integrating Game Center into HaxeFlixel projects are not great. The original HxGK project seems to have largely disappeared from the Internet and NMEX, while full of great features, is an absolute pain to get running in its current state. This project should, hopefully, make basic Game Center integration (leaderboards and achievements) much simpler.
+### IOS
+[Hxgk-Flixel](https://github.com/prestia/hxgk-flixel) [`(Anthony Prestia)`](http://anthonyprestia.com/): A modified hxgk that adds Game Center support to HaxeFlixel projects. The options for integrating Game Center into HaxeFlixel projects are not great. The original HxGK project seems to have largely disappeared from the Internet and NMEX, while full of great features, is an absolute pain to get running in its current state. This project should, hopefully, make basic Game Center integration (leaderboards and achievements) much simpler.
 
-[Game Center ([]())](https://github.com/openfl/gamecenter):
+[Game Center](https://github.com/openfl/gamecenter) [`(OpenFl)`](https://github.com/openfl)
 
-[IAP ([]())](https://github.com/openfl/iap): Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
+[Game Center](https://github.com/sergey-miryanov/gamecenter) [`(Sergey Miryanov)`](https://github.com/sergey-miryanov)
 
+[IAP](https://github.com/openfl/iap) [`(OpenFl)`](https://github.com/openfl): Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
 
 ### Facebook
 
-[ ([]())]():
 #### Windows and Flash
-
 
 #### Mobile (Android + iOS)
 [HypFacebook](https://github.com/hyperfiction/HypFacebook)
 
-
-[ ([]())]:
-
 ### Google Play
-[IAP ([]())]:https://github.com/openfl/iap: Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
+[Linden Google Play](https://github.com/sergey-miryanov/linden-google-play) [`(Sergey Miryanov)`](https://github.com/sergey-miryanov): Android extension for OpenFL for GooglePlay services like Achievements, Leaderboards, etc. [Demo here](https://github.com/sergey-miryanov/linden-samples).
+
+[Linden In-App Billing](https://github.com/sergey-miryanov/linden-google-iap) [`(Sergey Miryanov)`](https://github.com/sergey-miryanov): Android extension for OpenFL for GooglePlay In-App Billing. [Demo here](https://github.com/sergey-miryanov/linden-samples).
+
+[IAP](https://github.com/openfl/iap) [`(OpenFl)`](https://github.com/openfl): Provides an access to in-app purchases (iOS) and in-app billing (android) for OpenFL projects, using a common API.
 
 ### Kaltura
 Kaltura’s open source platform includes hundreds of REST-based application programming interfaces (APIs) providing programmable access to every core service of the platform. With full access to our API*, you can independently extend every feature and functionality of the Kaltura Platform. This means you’ll be able to seamlessly integrate Kaltura’s various solutions, services, and widgets to create a unified experience within your chosen environments - be it a known CMS, or custom in-house application.
@@ -141,15 +141,13 @@ Steam, the giant game store that is beloved anywhere but the lairs of pure evil,
 [ ([]())](https://github.com/dukope/SteamWrap):
 
 ### Twitter
+
 #### PC and Flash
 
 #### Android
 
 #### iOS
 [Twixel ([Anthony Prestia](http://anthonyprestia.com/))](https://github.com/prestia/twixel) (HaxeFlixel):An openfl extension that adds the ability to use Tweet Sheets from within iOS applications. Includes a sample HaxeFlixel project. This extension currently supports multiple accounts, basic tweets, and fancy iOS-style URL appends. I will likely add image support in the future. This extension also uses the newer iOS Social framework and can potentially support Facebook in the future. Most of the existing Haxe extensions use the deprecated Twitter framework. 
-
-
-[ ([]())]
 
 
 ### Game Portals (Web)
