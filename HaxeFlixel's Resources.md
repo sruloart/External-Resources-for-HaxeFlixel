@@ -241,9 +241,8 @@ An Open source incarnation of the once popular and the now dead service for Flas
 [Away 3D Core OpenFL ([Away3D](http://www.away3d.com/))](https://github.com/away3d/away3d-core-openfl)
 [Away 3D Core OpenFL Exampls](https://github.com/away3d/away3d-examples-openfl)
 
-### Stage 3D 
-### H3D (Flash)
-[ ([]())]()https://github.com/ncannasse/h3d
+### Heaps
+[Heaps ([```Nicolas Cannasse```](http://ncannasse.fr))](https://github.com/ncannasse/heaps): a High Performance Game Framework.
 ### Native 3D
 [ ([]())]()https://github.com/matrix3d/native3d
 
