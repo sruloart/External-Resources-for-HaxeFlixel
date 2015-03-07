@@ -46,8 +46,7 @@ https://github.com/rockswang/roxlib
 
 [Barcode ([Barak Shohat](http://www.bazzisoft.com/index.php))](https://github.com/bazzisoft-openfl-extensions/barcode):This extension provides real-time barcode scanning functionality for iOS and Android, directly from the device's camera. In Android, it uses the Google/ZXing Barcode Scanner app as a service. This app must be installed separately for barcode scanning to work. The extension provides an indication if it's not installed when attempting to scan.
 
-
-[Get Image Text ([]())](https://github.com/ipsilondev/getimagext):
+[GetImagExt [(Ipsilon Developments Inc.)](http://www.ipsilondev.com/)](https://github.com/ipsilondev/getimagext): Get the full path of an image, taken from camera or selected in the gallery by the user.in android, it can also get resources from any other media app
 
 [HypSystem([Johann Martinache ```at``` [HyperFiction](https://github.com/hyperfiction)](https://github.com/shoebox))](https://github.com/hyperfiction/HypSystem): 
 
@@ -173,6 +172,11 @@ Steam, the giant game store that is beloved anywhere but the lairs of pure evil,
 [DDAnalytics ([Double-Duck](http://www.doubleduck.co/)](https://github.com/doubleduck/DDAnalytics):
 
 [DDGameAnalytics ([Double-Duck](http://www.doubleduck.co/)](https://github.com/doubleduck/DDAnalytics):
+
+### Amazon S3
+
+[S3UtilsOpenFL](https://github.com/ipsilondev/S3UtilsOpenFL)[(Ipsilon Developments Inc.)](http://www.ipsilondev.com/): Interact with Amazon S3 API directly from OpenFL / Haxe. supports direct upload from the app, whiteout a server !
+
 
 [ ([]())]()
 
@@ -300,6 +304,9 @@ https://github.com/doubleduck/TweenChain
 ### Localization
 [ ([]())]():CastleDB
 [FireTongue ([Lars Doucet](http://www.fortressofdoors.com/))](https://github.com/larsiusprime/firetongue):
+
+[devicelanguage [(Ipsilon Developments Inc.)](http://www.ipsilondev.com/)](https://github.com/ipsilondev/devicelanguage): Simple extension to get the device language, supporting iOS, Android and HTML5 targets.
+
 
 ## Formats 
 ### GIF
