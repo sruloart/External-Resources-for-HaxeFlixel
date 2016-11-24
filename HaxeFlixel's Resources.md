@@ -152,10 +152,15 @@ Steam, the giant game store that is beloved anywhere but the lairs of pure evil,
 ### Game Portals (Web)
 
 #### Armor Games (Flash)
+http://armorgames.com/
 
 #### Kongregate (Flash, HTML5, Unity) 
+http://www.kongregate.com/
 
-#### NewGrounds (Flash)
+#### Newgrounds (Flash, HTML5, WebGL)
+http://www.newgrounds.com/
+
+Using the Newgrounds API to implement Medals(achievments), scoreboards, and a custom preloader https://gamepopper.co.uk/2015/06/21/newgrounds-api-with-haxeflixel/
 
 
 ## Services API
